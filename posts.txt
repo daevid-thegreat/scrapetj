@@ -1,0 +1,100 @@
+company name: Surya Informatics Solutions Pvt. Ltd.
+required skills: python,webtechnologies,linux,mobile,mysql,angularjs,javascript
+more info: https://m.timesjobs.com/mobile/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+
+company name: Ivan Infotech Pvt. Ltd.
+required skills: rest,python,security,debugging
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+
+company name: east india securities ltd.
+required skills: python,hadoop,machinelearning
+more info: https://m.timesjobs.com/mobile/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&bc=+&sequence=3
+
+company name: art technology and software india pvt ltd
+required skills: rest,python,database,django,api
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-art-technology-and-software-india-pvt-ltd-cochin-kochi-ernakulam-2-to-3-yrs-jobid-M26lxDEd__PLUS__qtzpSvf__PLUS__uAgZw==&bc=+&sequence=4
+
+company name: sjain ventures
+required skills: python,webdeveloper,webservices
+more info: https://m.timesjobs.com/mobile/job-detail/python-intern-sjain-ventures-raipur-0-to-3-yrs-jobid-KmspiL9__SLASH__D9hzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+
+company name: TandA HR Solutions
+required skills: Python,Django,Flask,unittesting
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-tanda-hr-solutions-mohali-chandigarh-3-to-6-yrs-jobid-yhy9asKbR4VzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+
+company name: TandA HR Solutions
+required skills: python,git,django,GITHub
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-tanda-hr-solutions-gurgaon-chandigarh-4-to-6-yrs-jobid-RxlCUMDjB7dzpSvf__PLUS__uAgZw==&bc=+&sequence=7
+
+company name: TandA HR Solutions
+required skills: Python,Django,Flask,GITHub
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-tanda-hr-solutions-mohali-chandigarh-3-to-6-yrs-jobid-EAm60cv2FrxzpSvf__PLUS__uAgZw==&bc=+&sequence=8
+
+company name: young minds technology solutions pvt ltd
+required skills: python,html5,storage,javascript,security,django
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-young-minds-technology-solutions-pvt-ltd-tirupati-0-to-3-yrs-jobid-NDA__SLASH__WwOTUCFzpSvf__PLUS__uAgZw==&bc=+&sequence=9
+
+company name: DREAMAJAX TECHNOLOGIES
+required skills: python,django,api,sql,nosql
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-EWIVCDzRLKBzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+
+company name: day1 technologies
+required skills: rest,python,django,git,postgresql,sql,docker
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-day1-technologies-bengaluru-bangalore-2-to-3-yrs-jobid-wnkkahyN0x9zpSvf__PLUS__uAgZw==&bc=+&sequence=11
+
+company name: pofi technologies pvt ltd.
+required skills: python,django,html5,oops,javascript
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-pofi-technologies-pvt-ltd-coimbatore-3-to-5-yrs-jobid-y__SLASH__6Oon1A__SLASH__9xzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+
+company name: INFINITY GROUP
+required skills: python,css,django,html,bootstrap
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-infinity-group-noida-greater-noida-2-to-5-yrs-jobid-efOg3e9X__SLASH__D9zpSvf__PLUS__uAgZw==&bc=+&sequence=13
+
+company name: xonier technologies pvt ltd
+required skills: python,django,testingtools,debugging,storage
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-xonier-technologies-pvt-ltd-noida-greater-noida-2-to-5-yrs-jobid-VZ3nXzqL2FNzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+
+company name: zoondia software pvt ltd
+required skills: rest,python,problemsolving,sql,django,mysql,mvc,middleware
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-zoondia-software-pvt-ltd-calicut-kozhikode-thiruvananthapuram-2-to-4-yrs-jobid-TzDwtM7EOgFzpSvf__PLUS__uAgZw==&bc=+&sequence=15
+
+company name: destiny hr group services
+required skills: fundamentals,python,css,javascript,jquery,database,django,java,json,html
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-destiny-hr-group-services-gurgaon-0-to-1-yrs-jobid-ZBPXkQ5iEPBzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+
+company name: InnOvator Web Solutions Pvt.Ltd.
+required skills: rest,python,django,webdeveloper,mysql,api
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-innovator-web-solutions-pvt-ltd-mumbai-5-to-8-yrs-jobid-OO__SLASH__Qb2Q7MfpzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+
+company name: DealsCorner
+required skills: python,css,oops,linux,debugging,html,javascript
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-dealscorner-ahmedabad-1-to-4-yrs-jobid-zwS7bOT__PLUS__nKxzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+
+company name: pearl global solutions
+required skills: python,database,django,teamplayer,sql
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-pearl-global-solutions-cochin-kochi-ernakulam-4-to-7-yrs-jobid-dZD__SLASH__NDlCjpVzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+
+company name: AxisTechnolabs
+required skills: python,django,itskills,html5,api,jquery
+more info: https://m.timesjobs.com/mobile/job-detail/python-odoo-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-HzL8naalyxFzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+
+company name: CIGNEX Datamatics Technologies Pvt Ltd
+required skills: python,sql,django,postgresql,writtencommunication,api,angularjs
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-cignex-datamatics-technologies-pvt-ltd-bengaluru-bangalore-3-to-5-yrs-jobid-tqMdlJMDwsFzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+
+company name: Sourcedesk Global Private Limited
+required skills: html5,storage,python,javascript,django,infrastructure
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-sourcedesk-global-private-limited-kolkata-3-to-15-yrs-jobid-A27Uf03p2IJzpSvf__PLUS__uAgZw==&bc=+&sequence=22
+
+company name: TandA HR Solutions
+required skills: python,cloudservices,postgresql,mysql,machinelearning
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-tanda-hr-solutions-mohali-5-to-8-yrs-jobid-mpGA2O7bJEVzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+
+company name: TandA HR Solutions
+required skills: rest,python,github,nosql,sql,django,api,mongodb,soap
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-8-yrs-jobid-2bHodbQFBi1zpSvf__PLUS__uAgZw==&bc=+&sequence=24
+
+company name: ATCS
+required skills: python,svn,problemsolving,docker,django,git,multithreading,opencv
+more info: https://m.timesjobs.com/mobile/job-detail/python-developer-atcs-navi-mumbai-2-to-4-yrs-jobid-4kQkh6MmFrtzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+
